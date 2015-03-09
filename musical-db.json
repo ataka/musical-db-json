@@ -1,0 +1,14 @@
+{
+    "phantom_of_the_opera" : {
+	"name": "The Phantom of the Opera",
+	"music": "lloyd_webber",
+	"lylics": "r_hart",
+	"disc": [{
+	    "canadian" : {
+		"record" : { "date": "1990-10-15...1990-11-11",
+			     "place": "Manta Sound Studios, Toronto"
+			   }
+	    }
+	}]
+    }
+}
